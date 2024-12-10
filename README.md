@@ -16,7 +16,7 @@ I'm currently working on **A Homelab website**
 
 I'm currently learning **Javascript**
 
-Ask me about **HTML, CSS**
+Ask me about **HTML, CSS, Python, MD**
 
 </div>
 
