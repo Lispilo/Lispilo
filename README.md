@@ -48,7 +48,7 @@ Ask me about **HTML, CSS, Python, MD**
         Oprating system:
         <br/>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=windows,raspberrypi,linux,kali">
+            <img src="https://skillicons.dev/icons?i=windows,raspberrypi,linux,kali,ubuntu">
         </a>
     </div>
     <div class="cmd">
