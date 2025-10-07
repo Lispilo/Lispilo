@@ -33,36 +33,3 @@ Ask me about **HTML, CSS, Python, MD**
 </div>
 
 <hr/>
-
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<br/>
-<div align="center">
-    <div class="media">
-        Media:
-        <br/>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=ableton,blender,discord,figma,instagram,linkedin,twitter,sketchup">
-        </a>
-    </div>
-    <div class="os">
-        Oprating system:
-        <br/>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=windows,raspberrypi,linux,kali,ubuntu">
-        </a>
-    </div>
-    <div class="cmd">
-        comandpromts:
-        <br/>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=npm,powershell">
-        </a>
-    </div>
-    <div class="code">
-        programing languages:
-        <br/>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,md,py,swift,wordpress">
-        </a>
-    </div>
-</div>
