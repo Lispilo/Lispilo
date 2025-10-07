@@ -11,16 +11,6 @@
 <br/>
 
 <div align="center">
-
-I'm currently working on **A Homelab website**
-
-I'm currently learning **Javascript**
-
-Ask me about **HTML, CSS, Python, MD**
-
-</div>
-
-<div align="center">
     <a href="mailto:olssonalmmilo@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target"_blank" />
     </a>
